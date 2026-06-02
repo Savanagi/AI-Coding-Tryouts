@@ -1,0 +1,6 @@
+{
+  "name": "Weather Signal",
+  "description": "A high-fidelity meteorological command center that tracks real-time weather stations, compares global forecast models, analyzes historical trends, and delivers severe weather alerts via Gemini.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
